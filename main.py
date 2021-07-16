@@ -22,3 +22,4 @@ async def on_message(mreceive):
 
 
 client.run('ODU2ODc4MzA3MTMyMDQ3Mzkw.YNHcHA.taM2zH_R-DaRgp2Y7RHmBB-ALvE')
+#I've changed my token number since it got compromised
